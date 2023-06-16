@@ -1,0 +1,273 @@
+
+
+/* Start:/local/templates/public/components/bitrix/news.list/yam/style.css?1675161413150*/
+div.news-list
+{
+	word-wrap: break-word;
+}
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+
+
+/* Start:/local/templates/public/components/bitrix/news.list/banner/style.css?1674796758150*/
+div.news-list
+{
+	word-wrap: break-word;
+}
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+
+
+/* Start:/local/templates/public/components/bitrix/news.detail/ym_target/style.css?1676262939155*/
+div.news-detail
+{
+	word-wrap: break-word;
+}
+div.news-detail img.detail_picture
+{
+	float:left;
+	margin:0 8px 6px 1px;
+}
+.news-date-time
+{
+	color:#486DAA;
+}
+
+/* End */
+
+
+/* Start:/local/templates/public/components/bitrix/menu/mainMenu/style.css?1664867251581*/
+/* Left menu*/
+ul.left-menu
+{
+	list-style:none;
+	margin:0; padding:0;
+	margin-bottom:8px;
+	position: relative; /*IE bug*/
+}
+
+ul.left-menu li
+{
+	padding: 10px 16px;
+	background:#F5F5F5 url(/local/templates/public/components/bitrix/menu/mainMenu/images/left_menu_bg.gif) top repeat-x;
+}
+
+ul.left-menu li a
+{
+	font-size:100%;
+	color:#BC262C;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+ul.left-menu li a:visited
+{
+	color:#BC262C;
+}
+
+ul.left-menu li a:hover
+{
+	color:#BC262C;
+}
+
+
+ul.left-menu li a.selected:link,
+ul.left-menu li a.selected:visited,
+ul.left-menu li a.selected:active,
+ul.left-menu li a.selected:hover
+{
+	color:#FC8D3D;
+}
+
+
+
+
+/* End */
+
+
+/* Start:/local/templates/public/components/bitrix/news.list/courses_list_menu/style.css?1665140983150*/
+div.news-list
+{
+	word-wrap: break-word;
+}
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+
+
+/* Start:/local/templates/public/components/bitrix/news.list/pdf_list/style.css?1668163464150*/
+div.news-list
+{
+	word-wrap: break-word;
+}
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+
+
+/* Start:/local/templates/public/components/bitrix/news.list/social/style.css?1664867261150*/
+div.news-list
+{
+	word-wrap: break-word;
+}
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+
+
+/* Start:/local/templates/public/components/bitrix/news.list/header_phone/style.css?1671170411150*/
+div.news-list
+{
+	word-wrap: break-word;
+}
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+
+
+/* Start:/local/templates/public/components/bitrix/news.list/courses_list_menu_bottom/style.css?1665639323150*/
+div.news-list
+{
+	word-wrap: break-word;
+}
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+
+
+/* Start:/local/templates/public/components/bitrix/menu/bottomFirstMenu/style.css?1664867255581*/
+/* Left menu*/
+ul.left-menu
+{
+	list-style:none;
+	margin:0; padding:0;
+	margin-bottom:8px;
+	position: relative; /*IE bug*/
+}
+
+ul.left-menu li
+{
+	padding: 10px 16px;
+	background:#F5F5F5 url(/local/templates/public/components/bitrix/menu/bottomFirstMenu/images/left_menu_bg.gif) top repeat-x;
+}
+
+ul.left-menu li a
+{
+	font-size:100%;
+	color:#BC262C;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+ul.left-menu li a:visited
+{
+	color:#BC262C;
+}
+
+ul.left-menu li a:hover
+{
+	color:#BC262C;
+}
+
+
+ul.left-menu li a.selected:link,
+ul.left-menu li a.selected:visited,
+ul.left-menu li a.selected:active,
+ul.left-menu li a.selected:hover
+{
+	color:#FC8D3D;
+}
+
+
+
+
+/* End */
+
+
+/* Start:/local/templates/public/components/bitrix/news.list/footer_contacts/style.css?1664867259150*/
+div.news-list
+{
+	word-wrap: break-word;
+}
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+
+
+/* Start:/local/templates/public/styles.css?167117041173*/
+pre {
+    color: white;
+    background-color: black;
+    z-index: 1000;
+}
+/* End */
+/* /local/templates/public/components/bitrix/news.list/yam/style.css?1675161413150 */
+/* /local/templates/public/components/bitrix/news.list/banner/style.css?1674796758150 */
+/* /local/templates/public/components/bitrix/news.detail/ym_target/style.css?1676262939155 */
+/* /local/templates/public/components/bitrix/menu/mainMenu/style.css?1664867251581 */
+/* /local/templates/public/components/bitrix/news.list/courses_list_menu/style.css?1665140983150 */
+/* /local/templates/public/components/bitrix/news.list/pdf_list/style.css?1668163464150 */
+/* /local/templates/public/components/bitrix/news.list/social/style.css?1664867261150 */
+/* /local/templates/public/components/bitrix/news.list/header_phone/style.css?1671170411150 */
+/* /local/templates/public/components/bitrix/news.list/courses_list_menu_bottom/style.css?1665639323150 */
+/* /local/templates/public/components/bitrix/menu/bottomFirstMenu/style.css?1664867255581 */
+/* /local/templates/public/components/bitrix/news.list/footer_contacts/style.css?1664867259150 */
+/* /local/templates/public/styles.css?167117041173 */
